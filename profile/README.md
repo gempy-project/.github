@@ -27,7 +27,7 @@ powerful **implicit representation** approach.
 
 We provide the latest release version of GemPy via PyPi package services. We highly recommend using PyPi,
 
-`$ pip install gempy`
+`$ pip install gempy[base]`
  
 ## Resources
 
