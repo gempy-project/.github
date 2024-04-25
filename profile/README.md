@@ -55,19 +55,19 @@ Follow these [guidelines](https://github.com/cgre-aachen/gempy/blob/WIP_readme-u
 
   <td>
   <a href="https://docs.gempy.org/examples/geometries/a01_horizontal_stratigraphic.html#sphx-glr-examples-geometries-a01-horizontal-stratigraphic-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_a01_horizontal_stratigraphic_003.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model1_nodata.png?raw=true)" width="300" />
   </a>
   </td>
   
   <td>
   <a href="https://docs.gempy.org/examples/geometries/b02_fold.html#sphx-glr-examples-geometries-b02-fold-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_b02_fold_003.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model2_nodata.png?raw=true)" width="300" />
   </a>
   </td>
   
    <td>
   <a href="https://docs.gempy.org/examples/geometries/c03_recumbent_fold.html#sphx-glr-examples-geometries-c03-recumbent-fold-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_c03_recumbent_fold_003.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model3_nodata.png?raw=true" width="300" />
   </a>
   </td>
 
@@ -76,19 +76,19 @@ Follow these [guidelines](https://github.com/cgre-aachen/gempy/blob/WIP_readme-u
 
   <td>
   <a href="https://docs.gempy.org/examples/geometries/d04_pinchout.html#sphx-glr-examples-geometries-d04-pinchout-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_d04_pinchout_003.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model4_nodata.png?raw=true" width="300" />
   </a>
   </td>
   
   <td>
   <a href="https://docs.gempy.org/examples/geometries/e05_fault.html#sphx-glr-examples-geometries-e05-fault-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_e05_fault_003.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model5_nodata.png?raw=true" width="300" />
   </a>
   </td>
   
   <td>
   <a href="https://docs.gempy.org/examples/geometries/f06_unconformity.html#sphx-glr-examples-geometries-f06-unconformity-py">
-  <img alt="colormapped image plot thumbnail" src="https://docs.gempy.org/_images/sphx_glr_f06_unconformity_002.png" width="300" />
+  <img alt="colormapped image plot thumbnail" src="https://github.com/gempy-project/gempy/blob/main/docs/readme_images/model6_nodata.png?raw=true" width="300" />
   </a>
   </td>
 
