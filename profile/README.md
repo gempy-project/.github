@@ -34,7 +34,7 @@ We provide the latest release version of GemPy via PyPi package services. We hig
 ## Resources
 
 After installation, you can either check the [notebook tutorials](https://docs.gempy.org/getting_started/get_started.html#sphx-glr-getting-started-get-started-py) 
-or the [video introduction](https://www.youtube.com/watch?v=n0btC5Zilyc) to get started.
+or the [video introduction](https://www.youtube.com/watch?v=3elCCHhARsU&t=2s) to get started.
 
 Go to the [documentation site](http://docs.gempy.org/) for further information and enjoy the [tutorials and examples](https://www.gempy.org/tutorials).
 
